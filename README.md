@@ -104,11 +104,9 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 2. Go to Vercel and import your repository.
 
-3. Set the environment variables in Vercel:
+3. Deploy 🎉
 
-4. Deploy 🎉
-
-5. Visit our live app: https://atsight-e79b8.puter.site
+4. Visit our live app: https://atsight-e79b8.puter.site
 
 🤝 Contributing
 
