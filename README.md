@@ -98,3 +98,32 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+🚀 Deployment (Vercel)
+
+1. Push your project to GitHub.
+
+2. Go to Vercel and import your repository.
+
+3. Set the environment variables in Vercel:
+
+4. Deploy 🎉
+
+5. Visit our live app: https://puter.com/app/atsight
+
+🤝 Contributing
+
+1. Fork the repo 🍴
+
+2. Create your feature branch 🌱
+
+3. Commit your changes 📝
+
+4. Push to the branch 🚀
+
+5. Open a Pull Request 🎉
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+© 2025 [Prateek-GitProjects](https://github.com/Prateek-GitProjects)
