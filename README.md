@@ -99,7 +99,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-🚀 Deployment (Vercel)
+🚀 Deployment
 
 1. Push your project to GitHub.
 
@@ -109,7 +109,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 4. Deploy 🎉
 
-5. Visit our live app: https://puter.com/app/atsight
+5. Visit our live app: https://atsight-e79b8.puter.site
 
 🤝 Contributing
 
