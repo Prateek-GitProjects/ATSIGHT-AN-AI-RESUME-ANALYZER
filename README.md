@@ -78,7 +78,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
+git clone https://github.com/https://github.com/Prateek-GitProjects/ATSIGHT-AN-AI-RESUME-ANALYZER
 cd ai-resume-analyzer
 ```
 
